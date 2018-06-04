@@ -1,4 +1,11 @@
-import Pessoa from './pessoa';
+import 'react'
 
-const pessoa = new Pessoa('Avelino')
-console.log(pessoa.toString())
+export default props => (
+      <h1>asdge</h1>
+	)
+
+console.log('funfou')
+
+
+
+
